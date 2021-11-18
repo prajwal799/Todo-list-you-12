@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 700px;
+  margin: auto;
+  padding-top: 10px;
+  background: #CECECE
+}
+.buttonadd{
+  width:90px;
+  height:80px;
+  border:none;
+  border-radius: 20px;
+  font-size: 30px;
+  margin-left: 20px;
+  background: white
+}
+.input{
+  width: 400px;
+  height: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+.listtext{
+  width: 530px;
+  height: 100px;
+  background: white;
+  margin-left: 80px;
+  font-size: 20px;
+   padding-top: 0px;
+   display: flex; 
+}
+.status{
+  margin-left: 10%;
+}
+.toggle_btn{
+  width: 20px;
+  height: 20px;
+   border-radius: 50%;
+   border: none;
+   margin-top: 50px;
+   margin-left: 2%;
+}
